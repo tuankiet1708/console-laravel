@@ -20,7 +20,7 @@ use Lucid\Console\Components\Domain;
 use Lucid\Console\Components\Job;
 use Symfony\Component\Finder\Finder as SymfonyFinder;
 
-define('DS', DIRECTORY_SEPARATOR);
+!defined('DS') && define('DS', DIRECTORY_SEPARATOR);
 
 /**
  * @author Abed Halawi <abed.halawi@vinelab.com>
