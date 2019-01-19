@@ -24,5 +24,5 @@
         "stevebauman/log-reader": "^1.1",
         "phploc/phploc": "~4.0"
     },
-    "version": "master"
+    "version": "0.0.1"
 }
