@@ -23,5 +23,6 @@
         "symfony/filesystem": "^4.1",
         "stevebauman/log-reader": "^1.1",
         "phploc/phploc": "~4.0"
-    }
+    },
+    "version": "0.0.1"
 }
